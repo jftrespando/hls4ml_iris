@@ -71,4 +71,5 @@ Consulta el archivo `pyproject.toml` para obtener la lista completa de dependenc
 ## Autores
 
 Javier Fernández Trespando
+
 Juan Rafael Sánchez Martínez
